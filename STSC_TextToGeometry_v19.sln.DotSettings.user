@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005Caccoremgd_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005CAcCui_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005Cacdbmgd_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005CAcDx_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005Cacmgd_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005CAecBaseMgd_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005CAutodesk_002EAutoCAD_002EInterop_002ECommon_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CRiderProjects_005C_005FAutodesk_005C2019_005CAutodesk_002EAutoCAD_002EInterop_002Edll/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -1,0 +1,36 @@
+c:\users\sean tessier\documents\visual studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.MyCommands.resources
+c:\users\sean tessier\documents\visual studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.frmTxt2GeomUI.resources
+C:\Users\Sean Tessier\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\STSC_Text2Geom_v19.dll
+C:\Users\Sean Tessier\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\STSC_Text2Geom_v19.pdb
+C:\Users\Sean Tessier\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_Text2Geom_v19.dll
+C:\Users\Sean Tessier\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_Text2Geom_v19.pdb
+C:\Users\Sean tessier\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csprojResolveAssemblyReference.cache
+C:\Users\Sean tessier\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\STSC_Text2Geom_v19.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\STSC_Text2Geom_v19.pdb
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.MyCommands.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.frmTxt2GeomUI.resources
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csproj.GenerateResource.Cache
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_Text2Geom_v19.dll
+C:\Users\Sean\Documents\Visual Studio 2010\Projects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_Text2Geom_v19.pdb
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\STSC_Text2Geom_v19.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\STSC_Text2Geom_v19.pdb
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcCoreMgd.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcCui.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcDbMgd.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\acdbmgdbrep.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcDx.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcMgd.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcMr.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcTcMgd.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AcWindows.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\bin\Debug\AdWindows.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csproj.AssemblyReference.cache
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.MyCommands.resources
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.FrmTxt2GeomUi.resources
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csproj.GenerateResource.cache
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csproj.CoreCompileInputs.cache
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_TextToGeometry_v19.csproj.CopyComplete
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_Text2Geom_v19.dll
+F:\RiderProjects\STSC_TextToGeometry_v19\STSC_TextToGeometry_v19\obj\Debug\STSC_Text2Geom_v19.pdb
